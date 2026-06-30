@@ -31,16 +31,7 @@ A simple **CRUD-based Student Management System** developed using **Python** and
 
 ### Main Menu
 
-> Add your screenshot here
-
-===== Student Management System =====
-
-1. Add Student
-2. View Students
-3. Search Student
-4. Update Student
-5. Delete Student
-6. Exit
+<img width="406" height="201" alt="menu" src="https://github.com/user-attachments/assets/4823eaef-18c8-4078-9652-0cd6bbf4f6ee" />
 
 
 ### View Students
