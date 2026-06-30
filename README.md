@@ -59,7 +59,7 @@ A simple **CRUD-based Student Management System** developed using **Python** and
 
 1. Download or clone this repository.
 2. Open the project in Visual Studio Code.
-3. Run `Main.py`.
+3. Run `main.py`.
 4. Use the menu to manage student records.
 
 ##  Author
