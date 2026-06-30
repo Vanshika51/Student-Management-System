@@ -1,4 +1,4 @@
-# 🎓 Student Management System | Python
+# 🎓 Student Management System | Python | JSON | CRUD Application
 
 A simple **CRUD-based Student Management System** developed using **Python** and **JSON** for data storage. This project allows users to add, view, search, update, and delete student records through a menu-driven interface.
 
@@ -12,10 +12,10 @@ A simple **CRUD-based Student Management System** developed using **Python** and
 -  Delete Student
 -  Store Data in JSON File
 -  Input Validation
-  - Name Validation
-  - Age Validation
-  - Email Validation
-  - Phone Number Validation
+  -  Name Validation
+  -  Age Validation
+  -  Email Validation
+  -  Phone Number Validation
 -  Automatic Student ID Generation
 -  Invalid Input Handling
 
@@ -24,7 +24,7 @@ A simple **CRUD-based Student Management System** developed using **Python** and
 
 - Python 3
 - JSON
-- VS Code
+- Visual Studio Code
 
 
 ##  Output
@@ -34,18 +34,14 @@ A simple **CRUD-based Student Management System** developed using **Python** and
 <img width="406" height="201" alt="menu" src="https://github.com/user-attachments/assets/4823eaef-18c8-4078-9652-0cd6bbf4f6ee" />
 
 
+### Add Student
+
+<img width="301" height="133" alt="add_student" src="https://github.com/user-attachments/assets/4d99e02d-62d9-4687-8165-0c2e649190ed" />
+
+
 ### View Students
 
-> Add your screenshot here
-
-===== Student List =====
-
-ID      : 1
-Name    : Vanshika
-Age     : 20
-Course  : BCA
-Email   : vanshika@gmail.com
-Phone   : 9876543210
+<img width="281" height="191" alt="view_student" src="https://github.com/user-attachments/assets/7a2d0a62-1523-416b-bf1a-cb463ac216dc" />
 
 
 ##  Concepts Used
@@ -58,7 +54,13 @@ Phone   : 9876543210
 - Exception Handling
 - Input Validation
 - CRUD Operations
+  
+##  How to Run
 
+1. Download or clone this repository.
+2. Open the project in Visual Studio Code.
+3. Run `Main.py`.
+4. Use the menu to manage student records.
 
 ##  Author
 
