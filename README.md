@@ -62,8 +62,5 @@ A simple **CRUD-based Student Management System** developed using **Python** and
 3. Run `main.py`.
 4. Use the menu to manage student records.
 
-##  Author
-
-**Vanshika Tanwar**
 
 
